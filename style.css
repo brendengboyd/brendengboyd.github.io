@@ -113,3 +113,18 @@ footer {
         margin: 15px auto;
     }
 }
+
+.resume-button {
+    display: inline-block;
+    background-color: #3e7cb1;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.resume-button:hover {
+    background-color: #243b53;
+    color: white;
+    text-decoration: none;
+}
